@@ -6,8 +6,9 @@
 
 body {
     background-color: #d9dcd6;
+
 }
-/*header style*/
+/*Header Style*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,8 +50,8 @@ a {
 p {
     font-size: 16px;
 }
-/*end Header style*/
-/*hero section*/
+/*end Header Style*/
+/*Hero Section*/
 .hero {
     height: 1300px; /*increased image height*/
     width: 100%;
@@ -59,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*end hero section*/
+/*end Hero Section*/
 /* Content Section*/
 .float-left {
     float: left;
@@ -129,7 +130,7 @@ p {
     max-width: 150px;
 }
 
-/*end Benefits section*/
+/*end Benefits Section*/
 
 .footer {
     padding: 30px;
