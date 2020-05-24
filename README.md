@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# challenge-1
-=======
-# Code Refactor Starter Code
->>>>>>> refs/remotes/origin/master
-
 # Refactor of Horiseon webpage to meet accessibility standards
 info: webpage has been refactored to meet general seo standards. 
 what was done?: semantic html elements replaced most div elements.
@@ -15,13 +9,14 @@ what was done?: semantic html elements replaced most div elements.
                 css has been labeled. 
                 internal nav link has been added for "search engine optimization"
 
-git hub:git@github.com:Walker-Walker/challenge-1.git
-link:https://walker-walker.github.io/challenge-1/#social-media-marketing
+git hub:<git@github.com:Walker-Walker/challenge-1.git>
+
+link:<https://walker-walker.github.io/challenge-1/#social-media-marketing>
 
 
 screenshot:
 
-![webpage screenshot](./assets/images)
+![webpage screenshot](./assets/images/screenshot.png)
 
 
 
