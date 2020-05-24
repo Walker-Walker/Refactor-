@@ -11,7 +11,10 @@ what was done?: semantic html elements replaced most div elements.
 
 git hub:<git@github.com:Walker-Walker/challenge-1.git>
 
-link:<https://walker-walker.github.io/challenge-1/#social-media-marketing>
+git hub repo link: https://github.com/Walker-Walker/challenge-1.git
+
+link: https://walker-walker.github.io/challenge-1/#social-media-marketing
+
 
 
 screenshot:
