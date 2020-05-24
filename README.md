@@ -21,7 +21,7 @@ link:https://walker-walker.github.io/challenge-1/#social-media-marketing
 
 screenshot:
 
-![webpage screenshot](../images)
+![webpage screenshot](././images)
 
 
 
